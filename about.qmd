@@ -2,14 +2,13 @@
 title: "About"
 ---
 
-We are the UAlg Researchers Community, an informal group dedicated to fostering collaboration between UAlg researchers to advance knowledge across disciplines.
+We are the UAlg Science Community, an informal group of UAlg members dedicated to fostering scientific and academic collaboration between UAlg researchers, students, and professors to advance knowledge across disciplines.
 We thrive to build a cohesive community, united in science.
 
 
 ### Contact us
 
-We would be thrilled to hear from you. 
-
+We would be thrilled to hear from you. Drop us an email at: science.community.ualg at gmail.com 
 
 ### Do you want to collaborate with us? Come visit
 
@@ -22,3 +21,7 @@ leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addMarkers(lat=37.0439, lng=-7.9714, popup="The birthplace of the UAlg Researchers Community")
 ```
+
+#### Gambelas campus map
+
+![](pics/map_ualg_2023.png)

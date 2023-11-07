@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "UAlg Researchers"
+  title: "UAlg Science Community"
+  favicon: pics/favicon_bw.png
   navbar:
     search: true
     tools:
@@ -29,7 +30,7 @@ website:
           - documents/stellar.qmd
   back-to-top-navigation: true
   page-footer: 
-    left: "Copyright 2023, UAlg Researchers Community" 
+    left: "Copyright 2023, UAlg Science Community" 
     right: 
       - icon: github
         href: https://github.com/UALGResearchers

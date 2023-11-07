@@ -6,13 +6,13 @@ title: "STELLAR | Proposal"
 
 ```{=html}
 <p class="text-left">
-  <a class="btn btn-primary btn-lg doc-download" href="stellar_orcamento_participativo_2023_clarificacao_PT.pdf" target="_blank">
+  <a class="btn btn-primary btn-lg doc-download" href="stellar.pdf" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
   </a>
 </p>
 
 <div class="embed-container">
-  <iframe src="stellar_orcamento_participativo_2023_clarificacao_PT.pdf" style="border: 0.5px" width="600" height="800"></iframe>
+  <iframe src="stellar.pdf" style="border: 0.5px" width="600" height="800"></iframe>
 </div>
 ```
 

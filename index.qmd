@@ -4,7 +4,7 @@ title: "Welcome"
 
 ![](pics/science_tree_of_knowledge.png)
 
-Welcome to the UAlg Researchers Community portal, a dedicated space fostering collaboration among our scholars and scientists. 
+Welcome to the UAlg Science Community portal, a dedicated space fostering collaboration among our scholars and researchers. 
 Here you will find news, events, and other relevant information to support our community in driving forward scientific discovery and academic excellence at UAlg. 
 We encourage all members to engage actively, exchange ideas, and harness the collective goals of UAlg to make a lasting impact in the world of research.
 
