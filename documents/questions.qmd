@@ -1,0 +1,18 @@
+---
+title: "Questions | Meeting with Reitoria"
+---
+
+#### In Portuguese & English
+
+```{=html}
+<p class="text-left">
+  <a class="btn btn-primary btn-lg doc-download" href="FCT_Tenure_na_UAlg_questões_investigadores_PT_EN.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+</p>
+
+<div class="embed-container">
+  <iframe src="FCT_Tenure_na_UAlg_questões_investigadores_PT_EN.pdf" style="border: 0.5px" width="600" height="800"></iframe>
+</div>
+```
+

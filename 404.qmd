@@ -1,0 +1,10 @@
+---
+title: Page Not Found
+---
+
+
+![](pics/404_image.png){width=60% fig-align="center"}
+
+
+Hum... It seems like the page you requested cannot be found. Try searching for it directly :)
+

@@ -1,0 +1,32 @@
+---
+title: "STELLAR | Promoting Excellence at UAlg"
+description: "Our proposal to the Orçamento Participativo UAlg 2023"
+author:
+  - name: Isabel Duarte
+    url: https://iduarte.eu
+    orcid: 0000-0003-0060-2936
+    affiliation: CINTESIS - UAlg, Universidade do Algarve, Campus de Gambelas, Faro, Portugal
+    affiliation-url: https://www.ualg.pt/ 
+date: 10-31-2023
+categories: [UAlg, Researchers community] # self-defined categories
+image: stellar_info_form.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+The UAlg Researchers Community proposal title STELLAR is up for voting to win 25000 EUR from the *Orçamento Participativo UAlg*.
+
+This is the proposal's description.
+
+Academia thrives in strong scientific environments. However, researchers, faculty, and students require support in navigating the growing challenges inherent to science, including:
+
+1.  Addressing the **rapid advancements in technical and scientific domains**, such as the emergence of generative language models like ChatGPT, the introduction of new technologies and analytical methods, and even the evolving European directives concerning data management and personal data.
+
+2.  Managing **well-being and work-life balance**, given the escalating competition for consistently limited resources.
+
+3.  **Monetizing scientific knowledge**, through patents and intellectual property, remains a relatively underdeveloped area that necessitates a restructuring of research publication and appropriate training, aiming to make scientific research more sustainable and less reliant on constrained resources.
+
+4.  The existence of **communities dedicated to supporting scientific activities** is an internationally recognized reality, well-established in academies with significant scientific impact.
+
+This proposal for a personal growth and scientific development program seeks to establish a comprehensive and attractive **lifelong training ecosystem at UAlg**. Its goals include enhancing the capabilities of current academy members and attracting new talent. This initiative represents a clear investment in the future of science, positioning UAlg as an institution that openly supports scientific research, inviting individuals to study where excellence in science is fostered.
+
+![Infographic submited with the proposal. (Apologies for the Portuguese only version.)](infographic_orcamento_participativo_2023_color2.png)

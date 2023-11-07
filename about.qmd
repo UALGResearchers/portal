@@ -1,0 +1,24 @@
+---
+title: "About"
+---
+
+We are the UAlg Researchers Community, an informal group dedicated to fostering collaboration between UAlg researchers to advance knowledge across disciplines.
+We thrive to build a cohesive community, united in science.
+
+
+### Contact us
+
+We would be thrilled to hear from you. 
+
+
+### Do you want to collaborate with us? Come visit
+
+```{r}
+#| column: page-inset-right
+#| echo: false
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lat=37.0439, lng=-7.9714, popup="The birthplace of the UAlg Researchers Community")
+```
