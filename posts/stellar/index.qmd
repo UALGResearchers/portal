@@ -15,7 +15,11 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 The UAlg Researchers Community proposal title STELLAR is up for voting to win 25000 EUR from the *Orçamento Participativo UAlg*.
 
-This is the proposal's description.
+#### STELLAR Promotional Video
+
+{{< video https://youtu.be/yEtBna6qDb8 >}}
+
+#### Brief proposal's description.
 
 Academia thrives in strong scientific environments. However, researchers, faculty, and students require support in navigating the growing challenges inherent to science, including:
 
@@ -28,5 +32,6 @@ Academia thrives in strong scientific environments. However, researchers, facult
 4.  The existence of **communities dedicated to supporting scientific activities** is an internationally recognized reality, well-established in academies with significant scientific impact.
 
 This proposal for a personal growth and scientific development program seeks to establish a comprehensive and attractive **lifelong training ecosystem at UAlg**. Its goals include enhancing the capabilities of current academy members and attracting new talent. This initiative represents a clear investment in the future of science, positioning UAlg as an institution that openly supports scientific research, inviting individuals to study where excellence in science is fostered.
+
 
 ![Infographic submited with the proposal. (Apologies for the Portuguese only version.)](infographic_orcamento_participativo_2023_color2.png)
