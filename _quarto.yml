@@ -4,7 +4,7 @@ project:
 
 website:
   title: "UAlg Science Community"
-  favicon: pics/favicon_bw.png
+  favicon: pics/favicon_blue.png
   navbar:
     search: true
     tools:
