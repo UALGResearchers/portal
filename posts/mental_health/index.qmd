@@ -1,0 +1,30 @@
+---
+title: "Mental Health | Shall we talk about it?"
+description: "What can we actively do to improve our mental health?"
+author:
+  - name: Isabel Duarte
+    url: https://iduarte.eu
+    orcid: 0000-0003-0060-2936
+    affiliation: CINTESIS - UAlg, Universidade do Algarve, Campus de Gambelas, Faro, Portugal
+    affiliation-url: https://www.ualg.pt/ 
+date: 10-31-2023
+categories: [UAlg, Researchers community] # self-defined categories
+image: mental_health_science.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+
+### Scientific magazines are all over it... 
+
+https://www.nature.com/collections/gnlwffjgtr?utm_medium=print&utm_campaign=NNPnature
+
+
+
+### Why aren't we doing something at UAlg? 
+
+Coming soon...
+
+Lifelong Mental Health at UAlg | Raising awareness, Building resilience, Learning more!
+
+
+(Mobilized by: Carolin Correia Hoffmann & Cláudia Costa)
