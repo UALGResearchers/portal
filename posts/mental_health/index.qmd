@@ -13,6 +13,8 @@ image: mental_health_science.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+![](mental_health_science.png)
+
 
 ### Scientific magazines are all over it... 
 
