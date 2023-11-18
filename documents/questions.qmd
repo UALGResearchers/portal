@@ -12,7 +12,7 @@ title: "Questions | Meeting with Reitoria"
 </p>
 
 <div class="embed-container">
-  <iframe src="questions.pdf" style="border: 0.5px" width="600" height="800"></iframe>
+  <iframe src="questions.pdf" style="border: 0.5px" width="800" height="1000"></iframe>
 </div>
 ```
 

@@ -1,9 +1,10 @@
 [
   {
-    "listing": "/posts.html",
+    "listing": "/news.html",
     "items": [
-      "/posts/mental_health/index.html",
-      "/posts/stellar/index.html"
+      "/news/christmas_snack/index.html",
+      "/news/mental_health/index.html",
+      "/news/stellar/index.html"
     ]
   }
 ]

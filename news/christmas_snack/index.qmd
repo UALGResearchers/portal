@@ -1,0 +1,26 @@
+---
+title: "Jingle Bells & Lab Coats"
+description: "Christmas Snacktime Invitation"
+author:
+  - name: Isabel Duarte
+    url: https://iduarte.eu
+    orcid: 0000-0003-0060-2936
+date: 11-18-2023
+image: xmas2023.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![](xmas2023.png)
+
+
+#### Shall we get together for some christmas snacks?
+
+<br>
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdN9W4Vs25tQIz_YXQ77fg-V6jLhCbPkHP4t5up_kL-IAn6pQ/viewform?embedded=true" width="800" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+
+
+

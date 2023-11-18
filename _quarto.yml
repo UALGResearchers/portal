@@ -15,12 +15,12 @@ website:
     left:
       - href: index.qmd
         text: "Home"
-      - href: posts.qmd
+      - href: news.qmd
         text: "News"
-      - href: about.qmd
-        text: "About"
       - href: calendar.qmd
         text: "Calendar"
+      - href: about.qmd
+        text: "About"
       - text: "Documents"
         menu:
           - documents/fct_tenure.qmd
