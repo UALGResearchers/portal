@@ -1,6 +1,6 @@
 ---
 title: "Mental Health | Shall we talk about it?"
-description: "What can we actively do to improve our mental health? Save the date: 22 May 2024 at 11:00h"
+description: "How to improve our mental health | 22 May 2024 at 11:00h"
 author:
   - name: Isabel Duarte
     url: https://iduarte.eu
@@ -22,7 +22,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 <br>
 
-### What are we doing about it at UAlg? 
+### What can we actively do to improve our mental health?
 
 >> Lifelong Mental Health at UAlg | Raising awareness, Building resilience, Learning more!
 
