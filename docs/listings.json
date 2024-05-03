@@ -2,8 +2,9 @@
   {
     "listing": "/news.html",
     "items": [
-      "/news/christmas_snack/index.html",
       "/news/mental_health/index.html",
+      "/news/picnic4peace/index.html",
+      "/news/christmas_snack/index.html",
       "/news/stellar/index.html"
     ]
   }

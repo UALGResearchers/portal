@@ -26,12 +26,13 @@ website:
           - documents/fct_tenure.qmd
           - documents/crup.qmd
           - documents/stellar.qmd
+          - documents/ai_research_guidelines.qmd
       - href: extra.qmd
         text: "Extra"
       
   back-to-top-navigation: true
   page-footer: 
-    left: "Copyright 2023, UAlg Science Community" 
+    left: "Copyright 2024, UAlg Science Community" 
     right: 
       - icon: github
         href: https://github.com/UALGResearchers

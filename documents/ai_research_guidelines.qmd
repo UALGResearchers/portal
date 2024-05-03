@@ -1,0 +1,20 @@
+---
+title: "AI usage in Research | EU guidelines"
+---
+
+#### [EU guidelines online ](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en)
+
+```{=html}
+<p class="text-left">
+  <a class="btn btn-primary btn-lg doc-download" href="eu_ai_research_guidelines_march2024.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+</p>
+
+<div class="embed-container">
+  <iframe src="eu_ai_research_guidelines_march2024.pdf" style="border: 0.5px" width="800" height="1000"></iframe>
+</div>
+```
+
+
+

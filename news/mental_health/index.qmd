@@ -1,13 +1,13 @@
 ---
 title: "Mental Health | Shall we talk about it?"
-description: "What can we actively do to improve our mental health?"
+description: "What can we actively do to improve our mental health? Save the date: 22 May 2024 at 11:00h"
 author:
   - name: Isabel Duarte
     url: https://iduarte.eu
     orcid: 0000-0003-0060-2936
     affiliation: CINTESIS - UAlg, Universidade do Algarve, Campus de Gambelas, Faro, Portugal
     affiliation-url: https://www.ualg.pt/ 
-date: 11-15-2023
+date: 05-04-2024
 categories: [Mental Health] # self-defined categories
 image: mental_health_science.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
@@ -22,11 +22,17 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 <br>
 
-### Why aren't we doing something at UAlg? 
+### What are we doing about it at UAlg? 
 
-Coming soon... 
+>> Lifelong Mental Health at UAlg | Raising awareness, Building resilience, Learning more!
 
->>> Lifelong Mental Health at UAlg | Raising awareness, Building resilience, Learning more!
+First meeting of the **Bibliotecas Humanas: Group meetings for Researchers**, moderated by trained psychologists from UAlg's Psychology department, to discuss work-related mental issues, like anxiety, stress, dealing with rejection, perfectionism...
+
+If you feel these, you are not alone!
+
+**Save the date: 22 May 2024 | 11:00h | Campus de Gambelas** (room to be announced)
+
+
 
 (*Led by: Carolin Correia Hoffmann & Cláudia Costa*)
 

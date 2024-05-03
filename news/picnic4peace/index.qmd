@@ -1,0 +1,27 @@
+---
+title: "PicNic 4 Peace"
+description: "Peaceful gathering to support world PEACE | 10 May 2024 at 17:00h | Campus de Gambelas"
+author:
+  - name: Isabel Duarte
+    url: https://iduarte.eu
+    orcid: 0000-0003-0060-2936
+date: 05-02-2024
+image: world_peace.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![](world_peace.png)
+
+
+#### Shall we get together for World Peace and Social Support?
+
+<br>
+
+Bring some food, drinks, serenity and a smile. Join us in a gathering at UAlg for world peace.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMCmmyO7nuVuyreMi74rXckL0Vmd4uzUgg0Y7tLx2duiAPJg/viewform?embedded=true" width="640" height="405" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+
+
+
