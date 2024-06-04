@@ -1,0 +1,39 @@
+---
+title: "AI in Pedagogical Innovation | AI Empowered Research"
+description: "4th Meeting | 19 June 2024 at 14:00h"
+author:
+  - name: Isabel Duarte
+    url: https://iduarte.eu
+    orcid: 0000-0003-0060-2936
+    affiliation: CINTESIS - UAlg, Universidade do Algarve, Faro, Portugal
+    affiliation-url: https://www.ualg.pt/ 
+date: 06-04-2024
+categories: [AI, Pedagogy] # self-defined categories
+image: ai_empowered_research.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![](ai_empowered_research.png)
+
+<br>
+
+**Save the date: 19 June 2024 | 14:00h | Campus da Penha** (room to be announced)
+
+<br>
+
+## AI Empowered Research: Best Practices to use AI as a Tool to Enhance Postgraduate Research Efficiency
+
+Summary | The application of generative AI tools in postgraduate research projects offers a multifaceted approach to enhancing both the quality and efficiency of research outputs from Masters and PhD students. By adopting best practices in the usage of these tools, postgraduate students can leverage the full potential of AI to streamline their workflows: from relevant literature discovery; to administrative tasks (e.g. grammar correction, template generation for reports, reducing word count for grants, writing letters for journal editors ...); and complex data analysis (e.g. expedite programming, summarization of long texts), among others. This brief communication advocates for the integration of AI into postgraduate research methodologies, emphasizing their role in fostering a more productive and innovative postgraduate research environment.
+
+Speaker | Isabel Duarte, Cancer Genomics Researcher from CINTESIS UAlg
+
+
+## More info
+
+[Office for Pedagogical Innovation at UAlg](https://ualg.pt/inovacao-pedagogica)
+
+<br>
+
+(*Publicized by: Isabel Duarte*)
+
+

@@ -2,10 +2,16 @@
 title: "PicNic 4 Peace"
 description: "Peaceful gathering to support world PEACE | 10 May 2024 at 17:00h"
 author:
+  - name: João Correia
+    orcid: 0000-0001-6624-7012
+    url: https://www.cienciavitae.pt//6417-495C-B044
+    affiliation: Universidade do Algarve, Faro, Portugal
   - name: Isabel Duarte
     url: https://iduarte.eu
+    affiliation: CINTESIS - UAlg, Universidade do Algarve, Faro, Portugal
     orcid: 0000-0003-0060-2936
 date: 05-02-2024
+categories: [Society, Peace, Liberty] # self-defined categories
 image: picnic4peace_poster.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
@@ -17,6 +23,18 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 #### Shall we get together for World Peace and Social Support?
 
->> More developments soon...
+<br>
 
+### Letter of requests sent to Reitoria | Friday, 24 May 2024
+
+A letter with the researcher's requests to make UAlg a more engaged and peace promoting institution has been sent to Reitoria. 
+
+Is is a letter requesting *simple get universal gestures of good-faith* from UAlg as a Peace promoting institution: simple, reasonable and moderated requests, in line with the values that we seek to promote and nurture at UAlg: *Peace, Understanding, Empathy, and Diplomacy*.
+Equity and Liberty for all at all times.
+
+The letter can be found in the documents section. 
+
+Thank you to all of those that contributed and signed it.
+
+-UAlg4Peace-
 

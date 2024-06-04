@@ -2,11 +2,19 @@
 title: "Mental Health | Shall we talk about it?"
 description: "How to improve our mental health | 22 May 2024 at 11:00h"
 author:
-  - name: Isabel Duarte
-    url: https://iduarte.eu
-    orcid: 0000-0003-0060-2936
-    affiliation: CINTESIS - UAlg, Universidade do Algarve, Campus de Gambelas, Faro, Portugal
-    affiliation-url: https://www.ualg.pt/ 
+    - name: Carolin Correia Hoffmann
+      orcid: 0000-0002-2528-7541
+      affiliation: ABR-RI, Universidade do Algarve, Faro, Portugal
+      affiliation-url: https://abcri.pt/
+    - name: Cláudia Costa 
+      orcid: 0000-0002-2715-1154 
+      affiliation: ICArEHB - UAlg, Universidade do Algarve, Faro, Portugal
+      affiliation-url: https://www.icarehb.com/
+    - name: Isabel Duarte
+      url: https://iduarte.eu
+      orcid: 0000-0003-0060-2936
+      affiliation: CINTESIS - UAlg, Universidade do Algarve, Faro, Portugal
+      affiliation-url: https://www.ualg.pt/ 
 date: 05-04-2024
 categories: [Mental Health] # self-defined categories
 image: mental_health_science.png

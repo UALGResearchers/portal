@@ -23,10 +23,11 @@ website:
         text: "About"
       - text: "Documents"
         menu:
-          - documents/fct_tenure.qmd
-          - documents/crup.qmd
+          - documents/letter_peace_at_ualg.qmd
           - documents/stellar.qmd
           - documents/ai_research_guidelines.qmd
+          - documents/fct_tenure.qmd
+          - documents/crup.qmd
       - href: extra.qmd
         text: "Extra"
       

@@ -1,0 +1,19 @@
+---
+title: "Peace promotion at UAlg"
+pdf: "LetterToUAlg_23052024.pdf"
+---
+
+#### Letter sent to Reitoria in 24 May 2024
+
+```{=html}
+<p class="text-left">
+  <a class="btn btn-primary btn-lg doc-download" href="LetterToUAlg_23052024.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+</p>
+
+<div class="embed-container">
+  <iframe src="LetterToUAlg_23052024.pdf" style="border: 0.5px" width="800" height="1000"></iframe>
+</div>
+```
+
