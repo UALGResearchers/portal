@@ -26,10 +26,10 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 A letter with the researcher's requests to make UAlg a more engaged and peace promoting institution has been sent to Reitoria. 
 
-Is is a letter requesting *simple get universal gestures of good-faith* from UAlg as a Peace promoting institution: simple, reasonable and moderated requests, in line with the values that we seek to promote and nurture at UAlg: *Peace, Understanding, Empathy, and Diplomacy*.
+It is a letter requesting *simple yet universal gestures of good-faith* from UAlg as a Peace promoting institution: simple, reasonable and moderated requests, in line with the values that we seek to promote and nurture at UAlg: *Peace, Understanding, Empathy, and Diplomacy*.
 Equity and Liberty for all at all times.
 
-The letter can be found in the documents section. 
+The letter can be found in the [documents](https://ualgsciencecommunity.github.io/portal/documents/letter_peace_at_ualg.html) section. 
 
 Thank you to all of those that contributed and signed it.
 
