@@ -6,10 +6,7 @@ author:
     orcid: 0000-0001-6624-7012
     url: https://www.cienciavitae.pt//6417-495C-B044
     affiliation: Universidade do Algarve, Faro, Portugal
-  - name: Isabel Duarte
-    url: https://iduarte.eu
-    affiliation: CINTESIS - UAlg, Universidade do Algarve, Faro, Portugal
-    orcid: 0000-0003-0060-2936
+    affiliation-url: https://www.ualg.pt/
 date: 05-02-2024
 categories: [Society, Peace, Liberty] # self-defined categories
 image: picnic4peace_poster.png
