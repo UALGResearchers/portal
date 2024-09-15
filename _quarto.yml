@@ -23,6 +23,7 @@ website:
         text: "About"
       - text: "Documents"
         menu:
+          - documents/dl57.qmd
           - documents/letter_peace_at_ualg.qmd
           - documents/stellar.qmd
           - documents/ai_research_guidelines.qmd
