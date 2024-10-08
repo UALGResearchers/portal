@@ -1,0 +1,26 @@
+---
+title: "Half Pint Science"
+description: "ICArEHB | 03 October 2024 at 19:00h"
+author:
+  - name: ICArEHB
+    url: https://www.icarehb.com/
+    affiliation: Universidade do Algarve, Faro, Portugal
+date: 10-03-2024
+categories: [Science, Outreach] # self-defined categories
+image: half_pint_sci_oct2024.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![<https://www.icarehb.com/scicomm/>](half_pint_sci_oct2024.jpg)
+
+
+#### Curious about archaeology?
+
+<br>
+
+ICArEHB, the Interdisciplinary Centre for Archaeology and Evolution of Human Behaviour from the Universidade do Algarve is hosting a Half Pint Science event.
+
+Join in on 3rd Oct, 7-8pm at Palimpsestu Art Bar in Faro for a drink and bite-sized insights into the human past. Free entry! Don't miss it!
+
+
+
