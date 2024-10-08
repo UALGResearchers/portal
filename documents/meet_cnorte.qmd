@@ -1,0 +1,19 @@
+---
+title: "Meeting with Deputy Cristóvão Norte"
+pdf: "ualg_doutorados_carta_cnorte_23set2024.pdf"
+---
+
+#### In Portuguese only
+
+```{=html}
+<p class="text-left">
+  <a class="btn btn-primary btn-lg doc-download" href="ualg_doutorados_carta_cnorte_23set2024.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+</p>
+
+<div class="embed-container">
+  <iframe src="ualg_doutorados_carta_cnorte_23set2024.pdf" style="border: 0.5px" width="800" height="1000"></iframe>
+</div>
+```
+

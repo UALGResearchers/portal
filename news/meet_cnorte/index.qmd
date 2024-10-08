@@ -1,0 +1,31 @@
+---
+title: "Meeting Policy Makers"
+description: "Meeting with Algarve Parlamentary Representative Cristóvão Norte | 23 September 2024 at 10:00h"
+author:
+  - name: Isabel Duarte
+    url: https://iduarte.eu
+    orcid: 0000-0003-0060-2936
+    affiliation: CINTESIS - UAlg, Universidade do Algarve, Faro, Portugal
+    affiliation-url: https://www.ualg.pt/ 
+date: 09-23-2024
+categories: [Society, Employment, Science] # self-defined categories
+image: sci_policy_making.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![](reuniao_cnorte_2024.png)
+
+
+#### UAlg Researchers Discuss Key Issues for Algarve's science with Deputy Cristóvão Norte, Algarve’s Parliamentary Representative from PSD
+
+<br>
+
+The researchers at the University of Algarve (UAlg) presented to deputy CN three main concerns:
+
+  - First, they highlight the precarious employment conditions of PhD researchers at UAlg, where only 3 out of 72 have permanent contracts. Additionally, many contracts are set to expire soon without prospects for renewal, putting scientific research at risk. A similar situation exists at the Centre for Marine Sciences (CCMAR), where most researchers lack stable positions.
+
+  - Second, they express concern about how the Foundation for Science and Technology (FCT) allocates funding. The current model tends to favor larger institutions, leaving smaller ones like UAlg at a disadvantage. This unequal distribution of resources limits innovation and development in regions like the Algarve, which needs more equitable investment to grow its scientific and technological sectors.
+
+  - Lastly, the researchers stress the importance of retaining talent in the Algarve to diversify its economy, which currently relies heavily on tourism. They argue that encouraging researchers to stay would foster growth in sectors such as marine biotechnology, health, and renewable energy, contributing to a more resilient and sustainable regional economy.
+
+The full text of the letter (plus slides) sent to CN, are in the [Documents](https://ualgsciencecommunity.github.io/portal/documents/meet_cnorte.html) section.

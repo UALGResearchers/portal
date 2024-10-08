@@ -1,0 +1,44 @@
+---
+title: "NEI2024 Protest Faro"
+description: "Protest to End Job Insecurity in Science | 27 September 2024 at 19:00h"
+author:
+  - name: Isabel Duarte
+    url: https://iduarte.eu
+    orcid: 0000-0003-0060-2936
+    affiliation: CINTESIS - UAlg, Universidade do Algarve, Faro, Portugal
+    affiliation-url: https://www.ualg.pt/ 
+date: 09-27-2024
+categories: [Society, Employment] # self-defined categories
+image: nei2024_poster.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![<https://www.barlavento.pt/noite-europeia-dos-investigadores-da-ualg-foi-contra-a-precariedade-laboral/>](barlavento_news_NEI_manif.png)
+
+
+#### UAlg Researchers Join National Protest to End Job Insecurity in Scientific Research  
+
+<br>
+
+Researchers from the University of Algarve (UAlg) join the national demonstration for the European Researchers' Night, protesting against job insecurity.
+
+The group of researchers from the University of Algarve (UAlg) is raising awareness about the labor challenges they face, urgently calling for the attention of relevant authorities. These issues directly threaten the continuity of scientific research in the Algarve region.
+
+Currently, out of the 72 PhD researchers contracted by UAlg, only three have permanent contracts. In the next six months, 32 of these contracts will expire with no prospect of permanent renewal, putting the continuity of high-quality scientific research at the institution at risk.
+
+Similarly, at the Centre of Marine Sciences (CCMAR), an independent center of excellence affiliated with UAlg and internationally recognized, 39 of the 55 PhD researchers under contract do not have permanent positions, further highlighting the precarious situation in research within strategic areas critical to the region’s development.
+
+The researchers also express concern over the current funding model of the Foundation for Science and Technology (FCT), which has favored larger universities’ research centers at the expense of smaller institutions like UAlg. This concentration of resources undermines scientific development and limits innovation capacity in key areas for the Algarve, hindering regional growth and the scientific potential of the country as a whole.
+
+Retaining researchers in the region is proposed as a solution to diversify the Algarve's economy, which currently depends excessively on tourism. Investment in sectors such as marine biotechnology, health and renewable energy, and sustainable tourism would bring significant social and economic benefits, fostering a more robust, balanced, and resilient economy against the seasonal nature of tourism.
+
+The researchers call for a serious commitment to addressing these issues by integrating them into career structures, thus ensuring their retention in the Algarve region and securing a more promising future for science and innovation in the area.
+
+UAlg researchers joined the national awareness campaign against precarious conditions in science and for career integration on September 27, as part of the European Researchers' Night 2024, held across the country.
+
+This action took place in the evening near the IPDJ headquarters in Faro, where UAlg researchers drew public attention to the fact that no effective solution is in sight for the approximately 3,500 PhD researchers in Portugal who will see their contracts expire by the end of 2025 (under Decree-Law 57 and Law 57), with many more following in the subsequent years.
+
+Moreover, the current temporary program aimed at linking these researchers (the FCT-Tenure program) will co-finance only 1,100 positions, and just 22 in the Algarve region (University of Algarve + CCMAR), which is clearly insufficient. This could leave more than half of the researchers in precarious conditions, leading to job losses for many of them and slowly suffocating scientific research in the Algarve and the country.
+
+
+
