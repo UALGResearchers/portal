@@ -2,11 +2,17 @@
 title: "Meeting Policy Makers"
 description: "Meeting with Algarve Parlamentary Representative Cristóvão Norte | 23 September 2024 at 10:00h"
 author:
+  - name: Patrícia Pinto
+    affiliation: CCMAR
+  - name: Bárbara Horta e Costa
+    affiliation: CCMAR
+  - name: Mafalda Rangel
+    affiliation: CCMAR
   - name: Isabel Duarte
     url: https://iduarte.eu
     orcid: 0000-0003-0060-2936
     affiliation: CINTESIS - UAlg, Universidade do Algarve, Faro, Portugal
-    affiliation-url: https://www.ualg.pt/ 
+    affiliation-url: https://www.ualg.pt/     
 date: 09-23-2024
 categories: [Society, Employment, Science] # self-defined categories
 image: sci_policy_making.png
@@ -28,4 +34,4 @@ The researchers at the University of Algarve (UAlg) presented to deputy CN three
 
   - Lastly, the researchers stress the importance of retaining talent in the Algarve to diversify its economy, which currently relies heavily on tourism. They argue that encouraging researchers to stay would foster growth in sectors such as marine biotechnology, health, and renewable energy, contributing to a more resilient and sustainable regional economy.
 
-The full text of the letter (plus slides) sent to CN, are in the [Documents](https://ualgsciencecommunity.github.io/portal/documents/meet_cnorte.html) section.
+The full text of the letter (plus slides) sent to CN, is in the [Documents](https://ualgsciencecommunity.github.io/portal/documents/meet_cnorte.html) section.

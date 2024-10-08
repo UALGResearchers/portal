@@ -7,6 +7,12 @@ author:
     orcid: 0000-0003-0060-2936
     affiliation: CINTESIS - UAlg, Universidade do Algarve, Faro, Portugal
     affiliation-url: https://www.ualg.pt/ 
+  - name: Patrícia Pinto
+    affiliation: CCMAR
+  - name: Bárbara Horta e Costa
+    affiliation: CCMAR
+  - name: Mafalda Rangel
+    affiliation: CCMAR
 date: 09-27-2024
 categories: [Society, Employment] # self-defined categories
 image: nei2024_poster.png
@@ -40,5 +46,8 @@ This action took place in the evening near the IPDJ headquarters in Faro, where 
 
 Moreover, the current temporary program aimed at linking these researchers (the FCT-Tenure program) will co-finance only 1,100 positions, and just 22 in the Algarve region (University of Algarve + CCMAR), which is clearly insufficient. This could leave more than half of the researchers in precarious conditions, leading to job losses for many of them and slowly suffocating scientific research in the Algarve and the country.
 
+<br>
 
+#### Also featured in the National News | TSF interviews Patrícia Pinto
 
+<https://www.tsf.pt/2853608184/com-contratos-a-terminar-muitos-investigadores-poderao-ir-para-o-desemprego/>
