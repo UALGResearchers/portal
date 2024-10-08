@@ -13,10 +13,9 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 ![<https://www.icarehb.com/scicomm/>](half_pint_sci_oct2024.jpg)
 
+<br>
 
 #### Curious about archaeology?
-
-<br>
 
 ICArEHB, the Interdisciplinary Centre for Archaeology and Evolution of Human Behaviour from the Universidade do Algarve is hosting a Half Pint Science event.
 

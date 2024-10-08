@@ -21,10 +21,9 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 ![<https://www.barlavento.pt/noite-europeia-dos-investigadores-da-ualg-foi-contra-a-precariedade-laboral/>](barlavento_news_NEI_manif.png)
 
+<br>
 
 #### UAlg Researchers Join National Protest to End Job Insecurity in Scientific Research  
-
-<br>
 
 Researchers from the University of Algarve (UAlg) join the national demonstration for the European Researchers' Night, protesting against job insecurity.
 
